@@ -1,29 +1,29 @@
-<!-- =============== RAGUL'S GITHUB PROFILE =============== -->
+<!-- RED & BLACK GITHUB PROFILE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:300510,100:FF334F&height=200&section=header&text=RAGUL%20P.&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=AI%20%26%20DATA%20SCIENCE%20STUDENT&descSize=18&descAlignY=75" width="100%" alt="Red and black banner" />
+</p>
 
 <h1 align="center">
-  🔴 RAGUL P.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF334F&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ragul+P.;AI+%26+Machine+Learning+Enthusiast;Building+Innovative+Solutions" alt="Animated introduction" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=FF334F&center=true&vCenter=true&width=700&lines=ARTIFICIAL+INTELLIGENCE+%26+DATA+SCIENCE;AI+%2F+ML+ENTHUSIAST;INNOVATION+%7C+SOFTWARE+%7C+TECHNOLOGY" alt="Animated introduction" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-STUDENT-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="AI and Data Science Student" />
-  <img src="https://img.shields.io/badge/BUILDING-INNOVATIVE%20SOLUTIONS-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="Building innovative solutions" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="Data Science" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ragul219-ctrl">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-FF334F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-FFFFFF?style=for-the-badge&logo=github&logoColor=FF334F&labelColor=0A0A0A" alt="GitHub profile" />
   </a>
   <a href="https://github.com/ragul219-ctrl?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-FF334F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Projects" />
+    <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-FF334F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Explore projects" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ragul219-ctrl&label=PROFILE%20VISITORS&color=FF334F&style=for-the-badge" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ragul219-ctrl&label=PROFILE%20VIEWS&color=FF334F&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 <h2 align="center">🔴 ABOUT ME</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF667A&center=true&vCenter=true&width=650&lines=Driven+by+curiosity.+Building+for+impact.;Learning+today.+Innovating+for+tomorrow." alt="About me animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF667A&center=true&vCenter=true&width=600&lines=Driven+by+curiosity.;Learning+today.+Innovating+for+tomorrow." alt="About me animation" />
 </p>
 
 <p align="center">
@@ -41,49 +41,43 @@
   <br>
   🧠 Artificial Intelligence and Data Science
   <br>
-  💡 Passionate about AI, Machine Learning, and innovation
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-FF334F?style=flat-square&labelColor=0A0A0A" alt="AI focus" />
-  <img src="https://img.shields.io/badge/INTEREST-DATA%20SCIENCE-FF334F?style=flat-square&labelColor=0A0A0A" alt="Data Science" />
-  <img src="https://img.shields.io/badge/MINDSET-INNOVATION-FF334F?style=flat-square&labelColor=0A0A0A" alt="Innovation" />
+  💡 Interested in AI, Machine Learning, and Software Development
 </p>
 
 ---
 
 <h2 align="center">⚡ WHAT I DO</h2>
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" align="center">
 
 ### 🧠 AI & Machine Learning
 
-Exploring intelligent systems, predictive models, and data-driven solutions.
+Exploring intelligent systems, predictive models, and AI applications.
 
 </td>
 <td width="50%" align="center">
 
 ### 💻 Software Development
 
-Building practical applications and learning modern development tools.
+Building practical applications and learning modern technologies.
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### 🚀 Innovation & Hackathons
+### 🔐 Cybersecurity
 
-Turning problem statements into useful and creative project ideas.
+Exploring suspicious URL detection and safer browsing concepts.
 
 </td>
 <td width="50%" align="center">
 
-### 🔬 Project Development
+### 🚀 Innovation
 
-Exploring solutions across healthcare, cybersecurity, and agriculture.
+Developing ideas for healthcare, agriculture, and product improvement.
 
 </td>
 </tr>
@@ -93,35 +87,29 @@ Exploring solutions across healthcare, cybersecurity, and agriculture.
 
 <h2 align="center">🔴 FEATURED PROJECTS</h2>
 
-<table width="100%">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚴 Voice Enabled Exercise Cycle</h3>
+### 🚴 Voice Enabled Exercise Cycle
 
-<p align="center">
-  A voice-operated exercise and rehabilitation cycle concept designed to support people with limited mobility.
-</p>
+A voice-operated exercise and rehabilitation cycle concept designed to support people with limited mobility.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HEALTH-TECH-FF334F?style=flat-square" alt="Health tech" />
-  <img src="https://img.shields.io/badge/VOICE-CONTROL-FF334F?style=flat-square" alt="Voice control" />
-  <img src="https://img.shields.io/badge/SENSORS-MOTOR-FF334F?style=flat-square" alt="Sensors and motor" />
+<p>
+<img src="https://img.shields.io/badge/HEALTH%20TECH-FF334F?style=flat-square&labelColor=0A0A0A" alt="Health Tech" />
+<img src="https://img.shields.io/badge/VOICE%20CONTROL-FF334F?style=flat-square&labelColor=0A0A0A" alt="Voice Control" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🔐 QR & Link Risk Screening</h3>
+### 🔐 QR & Link Risk Screening
 
-<p align="center">
-  A cybersecurity project concept for detecting suspicious URLs through patterns and risk indicators.
-</p>
+A project concept for identifying potentially suspicious links using URL patterns and risk indicators.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-FF334F?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/URL-ANALYSIS-FF334F?style=flat-square" alt="URL analysis" />
-  <img src="https://img.shields.io/badge/SECURITY-FF334F?style=flat-square" alt="Security" />
+<p>
+<img src="https://img.shields.io/badge/PYTHON-FF334F?style=flat-square&labelColor=0A0A0A" alt="Python" />
+<img src="https://img.shields.io/badge/CYBERSECURITY-FF334F?style=flat-square&labelColor=0A0A0A" alt="Cybersecurity" />
 </p>
 
 </td>
@@ -129,29 +117,23 @@ Exploring solutions across healthcare, cybersecurity, and agriculture.
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌾 AI Autonomous Tiller</h3>
+### 🌾 AI-Based Autonomous Tiller
 
-<p align="center">
-  An agricultural technology concept exploring AI-assisted navigation and obstacle detection for farming.
-</p>
+An agricultural technology concept exploring AI-assisted navigation and obstacle detection.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AGRICULTURE-FF334F?style=flat-square" alt="Agriculture" />
-  <img src="https://img.shields.io/badge/AI-NAVIGATION-FF334F?style=flat-square" alt="AI navigation" />
+<p>
+<img src="https://img.shields.io/badge/AGRICULTURE-FF334F?style=flat-square&labelColor=0A0A0A" alt="Agriculture" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🥤 Mixer Grinder Innovation</h3>
+### 🥤 Mixer Grinder Noise Reduction
 
-<p align="center">
-  A product innovation concept exploring vibration damping to reduce mixer-grinder noise and improve reliability.
-</p>
+A product innovation concept exploring vibration damping to reduce noise and improve reliability.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NOISE-REDUCTION-FF334F?style=flat-square" alt="Noise reduction" />
-  <img src="https://img.shields.io/badge/PRODUCT-INNOVATION-FF334F?style=flat-square" alt="Product innovation" />
+<p>
+<img src="https://img.shields.io/badge/PRODUCT%20INNOVATION-FF334F?style=flat-square&labelColor=0A0A0A" alt="Product Innovation" />
 </p>
 
 </td>
@@ -160,7 +142,7 @@ Exploring solutions across healthcare, cybersecurity, and agriculture.
 
 <p align="center">
   <a href="https://github.com/ragul219-ctrl?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-FF334F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="View repositories" />
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-FF334F?style=for-the-badge&labelColor=0A0A0A&logo=github" alt="View repositories" />
   </a>
 </p>
 
@@ -168,23 +150,14 @@ Exploring solutions across healthcare, cybersecurity, and agriculture.
 
 <h2 align="center">🛠️ TECH STACK</h2>
 
-<h3 align="center">Programming & Development</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode&theme=dark" alt="Programming and development skills" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Development tools" />
 </p>
-
-<h3 align="center">AI & Data Science</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Data%20Science-FF334F?style=for-the-badge&labelColor=0A0A0A" alt="Data Science" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
 ---
@@ -204,23 +177,23 @@ Exploring solutions across healthcare, cybersecurity, and agriculture.
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=ragul219-ctrl&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF334F&icon_color=FF334F&text_color=F3F4F6" alt="GitHub statistics" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=ragul219-ctrl&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF334F&icon_color=FF334F&text_color=FFFFFF" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul219-ctrl&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF334F&text_color=F3F4F6" alt="Top programming languages" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul219-ctrl&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF334F&text_color=FFFFFF" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=ragul219-ctrl&hide_border=true&background=0A0A0A&ring=FF334F&fire=FF334F&currStreakLabel=FF334F&sideLabels=F3F4F6&dates=AAAAAA" alt="GitHub contribution streak" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=ragul219-ctrl&hide_border=true&background=0A0A0A&ring=FF334F&fire=FF334F&currStreakLabel=FF334F&sideLabels=FFFFFF&dates=AAAAAA" alt="Contribution streak" />
 </p>
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
@@ -229,16 +202,16 @@ Exploring solutions across healthcare, cybersecurity, and agriculture.
 
 <p align="center">
   <a href="https://github.com/ragul219-ctrl">
-    <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FF334F" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-FF334F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <b>Driven by curiosity. Building for impact.</b>
+  <b>LEARN • BUILD • INNOVATE</b>
   <br>
-  <sub>LEARN • BUILD • INNOVATE</sub>
+  <sub>Driven by curiosity. Building for impact.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:7F1024,100:FF334F&height=100&section=footer" alt="Red and black footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:600818,100:FF334F&height=120&section=footer" width="100%" alt="Red and black footer" />
 </p>
